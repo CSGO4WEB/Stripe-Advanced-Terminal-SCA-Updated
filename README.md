@@ -28,6 +28,7 @@ The Stripe Advanced Terminal - (Updated Version) can be found by contacting us f
  - Manage Products 
  - SQL Injection Protected
  - ** And Much More! ** 
+ - Translation Supported by US (We can translate your system) 
  
   # Can I see a Demo of this system? 
   Yes! Sure, you just need to contact us and request it. We are available 24/7 on our support center. 
