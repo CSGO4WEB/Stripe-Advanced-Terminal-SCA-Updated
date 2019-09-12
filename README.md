@@ -7,3 +7,31 @@ The Stripe Advanced Terminal - (Updated Version) can be found by contacting us f
   - Instagram: https://instagram.com/oficial_esports4web
   - Email: sales@esports4web.com
   
+
+
+# What is Stripe Advanced Terminal?
+ Originaly, it was created by DevinLewis on Envato, but, since he doesn't support anymore this system, we had to find a solution and basically, we developed an updated system with SCA Support for European Cards, with new SRC of Stripe. 
+ This is a private development, and it's not an open-source. 
+ 
+ # What are the main features?
+ With Stripe Advanced Terminal Updated, you can sell your items online, by having an admin panel with a lot of amazing features.
+ - Admin Panel
+ - Free Value / Product List 
+ - Emails with templates for payments via SMTP Server
+ - Create Subscriptions and One time Payments via PayPal and Stripe 
+ - User Friendly
+ - Generate Invoices 
+ - Manage Products 
+ - SQL Injection Protected
+ - ** And Much More! ** 
+ 
+  # Can I see a Demo of this system? 
+  Yes! Sure, you just need to contact us and request it. We are available 24/7 on our support center. 
+  
+  # Do I have support once I get this system?
+  Yes, we provide you support for installation and correcting some bugs that you might have.
+  
+  # Contact Information
+  - Facebbok: https://facebook.com/esports4web
+  - Instagram: https://instagram.com/oficial_esports4web
+  - Email: sales@esports4web.com
