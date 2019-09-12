@@ -3,7 +3,7 @@ Stripe Terminal WEB with PayPal integration - Updated with SCA.
 
 # Where can I download it? 
 The Stripe Advanced Terminal - (Updated Version) can be found by contacting us from Facebook, Instagram or E-Mail.
-  - Facebbok: https://facebook.com/esports4web
+  - Facebook: https://facebook.com/esports4web
   - Instagram: https://instagram.com/oficial_esports4web
   - Email: sales@esports4web.com
   
@@ -32,6 +32,6 @@ The Stripe Advanced Terminal - (Updated Version) can be found by contacting us f
   Yes, we provide you support for installation and correcting some bugs that you might have.
   
   # Contact Information
-  - Facebbok: https://facebook.com/esports4web
+  - Facebook: https://facebook.com/esports4web
   - Instagram: https://instagram.com/oficial_esports4web
   - Email: sales@esports4web.com
