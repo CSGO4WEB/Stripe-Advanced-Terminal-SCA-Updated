@@ -31,7 +31,7 @@ The Stripe Advanced Terminal - (Updated Version) can be found by contacting us f
  - Translation Supported by US (We can translate your system) 
  
   # Can I see a Demo of this system? 
-  Yes! Sure, you just need to contact us and request it. We are available 24/7 on our support center. 
+  Yes! Sure... Here is the DEMO: https://demopay.esports4web.com
   
   # Do I have support once I get this system?
   Yes, we provide you support for installation and fixing some bugs that you might have.
